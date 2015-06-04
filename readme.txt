@@ -205,7 +205,8 @@ element also be 2 lines long. (See some examples at my documentation site - upco
 
 1. The default view of the Pricing Tables
 2. Hovering over the first Table
-
+3. Example of HOW to use the plugin
+4. Example of 4 Pricing Tables
 
 == Changelog ==
 
